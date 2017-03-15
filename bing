@@ -1,0 +1,3 @@
+#Bingbot
+net localgroup grpup_name user_name /delete
+net localgroup Jamie Goerke /delete
